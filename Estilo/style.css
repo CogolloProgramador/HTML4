@@ -1,0 +1,122 @@
+.nav 
+     {
+      
+          width: auto;
+          height: auto;
+          padding: 20px;
+     
+          text-align: center;
+    
+          color: antiquewhite;
+          background-color: rgb(138, 54, 255);
+          
+
+     }
+     .nav2 
+     {
+      
+          width: auto;
+          height: auto;
+          padding: 15px;
+          padding-left: 30px;
+          padding-right: 30px;
+          margin: 15;
+     
+          text-align: center;
+          text-decoration: none;
+          
+          color: antiquewhite;
+          background-color: rgb(138, 54, 255);
+          
+          
+
+     }
+h1, h2, h3 
+          {
+               text-align: center;
+               color: antiquewhite;
+               font-style: normal; 
+               
+               
+
+
+          }      
+
+body 
+      {
+          background-color: rgb(15, 15, 15);
+
+      }
+
+main 
+     {
+          color: antiquewhite;
+          text-align: center;
+          box-sizing: content-box;
+          
+
+     }    
+
+a:hover 
+      {
+
+           background-color: rgb(122, 51, 223);
+           padding: 25px;
+           padding-left: 30px;
+           padding-right: 30px;
+           text-transform: uppercase;
+           
+
+      }
+     
+  
+iframe 
+    {
+     background-color: rgb(44, 40, 40);
+     padding:5px;
+     margin: 5px;
+
+    }
+
+div 
+    {
+          width: 65%;
+          text-align: left;
+          font-style: italic;
+          background-color:rgb(52, 50, 50) ;
+          margin: 50px;
+          padding: 20px;
+          border-width: 5px;
+          border-color:rgb(138, 54, 255);
+          border-style:solid
+    }
+
+aside
+    {
+          position: fixed;
+          top: 165px;
+          right: 0;
+          color: antiquewhite;
+          text-align: left;
+          text-decoration: none;
+          background-color:rgb(52, 50, 50) ;
+          margin: 50px;
+          padding: 20px;
+          padding-bottom: 50px;
+          width: 15%;
+          border-width: 5px;
+          border-color:rgb(138, 54, 255);
+          border-style:solid
+
+
+          
+
+
+    }
+
+.aside 
+    {
+          text-decoration: none;
+          text-align: center;
+          color: antiquewhite;
+    }
