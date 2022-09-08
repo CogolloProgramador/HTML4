@@ -8,13 +8,13 @@
           text-align: center;
     
           color: antiquewhite;
-          background-color: rgb(138, 54, 255);
+          background-color: rgb(136, 77, 220);
           
 
      }
      .nav2 
      {
-      
+          
           width: auto;
           height: auto;
           padding: 15px;
@@ -26,7 +26,7 @@
           text-decoration: none;
           
           color: antiquewhite;
-          background-color: rgb(138, 54, 255);
+          background-color: rgb(136, 77, 220);
           
           
 
@@ -57,10 +57,10 @@ main
 
      }    
 
-a:hover 
+.nav2:hover 
       {
 
-           background-color: rgb(122, 51, 223);
+           background-color: rgb(119, 44, 224);
            padding: 25px;
            padding-left: 30px;
            padding-right: 30px;
@@ -87,7 +87,7 @@ div
           margin: 50px;
           padding: 20px;
           border-width: 5px;
-          border-color:rgb(138, 54, 255);
+          border-color:rgb(136, 77, 220);
           border-style:solid
     }
 
@@ -98,19 +98,14 @@ aside
           right: 0;
           color: antiquewhite;
           text-align: left;
-          text-decoration: none;
           background-color:rgb(52, 50, 50) ;
           margin: 50px;
           padding: 20px;
           padding-bottom: 50px;
           width: 15%;
           border-width: 5px;
-          border-color:rgb(138, 54, 255);
+          border-color:rgb(136, 77, 220);
           border-style:solid
-
-
-          
-
 
     }
 
@@ -120,3 +115,19 @@ aside
           text-align: center;
           color: antiquewhite;
     }
+
+.imgexp
+      {
+          border-style: solid;
+          border-width: 5px;
+          border-color: rgb(136, 77, 220) ;
+          margin:20px;
+          position: relative;
+          left: 70px;
+          text-size-adjust: 30%;
+          
+
+          
+
+
+     }
